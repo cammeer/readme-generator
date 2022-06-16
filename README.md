@@ -1,6 +1,4 @@
-
-  ![GitHub](https://img.shields.io/github/license/cammeer/My Readme Generator )
-  # My Readme Generator 
+# My Readme Generator 
   ## Description
   this is a javascript application that automatically generates a readme file for your project. It was created using the inqurirer package
   ## Table of Contents
@@ -17,9 +15,10 @@
   ## Usage
   Usage instructions will be provided soon!
   ## License
-  * This application is covered under the MIT license
+ Copyright © 2022 [Caren Merz](https://github.com/cammeer). <br />
+This project is [MIT](https://github.com/cammeer/next-progress-bar/blob/main/LICENSE) licensed.
   ## Contributions
-  I was the only contributor for this project so far. If you would like to contriibute, see my email below
+  I was the only contributor for this project so far. If you would like to contriibute, see my email below.
   
   ## Testing
   N/A
