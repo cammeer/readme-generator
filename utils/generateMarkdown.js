@@ -113,6 +113,8 @@ function generateMarkdown(data) {
   This project was created by me: [${data.githubUsername}](${data.githubLink})
   
   Contact me with any questions at: [${data.email}](${data.email})
+
+  ![my image](tower.jpeg)
 `;
 }
 
