@@ -28,4 +28,4 @@ This project is [MIT](https://github.com/cammeer/next-progress-bar/blob/main/LIC
   
   Contact me with any questions at: [caren@merzhaus.org](caren@merzhaus.org)
 
-  ![my image](tower.jpeg)
+  <img src="tower.jpeg"  width=20% height=20%>
