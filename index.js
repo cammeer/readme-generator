@@ -7,8 +7,8 @@ const questions = [
 
     {
         type: "input",
-        name: "description",
-        message: "Enter a brief description of your application."
+        name: "title",
+        message: "What is the title of this project"
     },
     {
         type: "input",
@@ -18,7 +18,7 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "Entre installation instructions"
+        message: "Enter installation instructions"
     },
     {
         type: "input",
@@ -40,6 +40,16 @@ const questions = [
         type: "input",
         name: "testing",
         message: "Provide testing instructions"
+    },
+    {
+        type: "input",
+        name: "githubUsername",
+        message: "Enter github username"
+    },
+    {
+        type: "input",
+        name: "githubLink",
+        message: "Enter GitHub link"
     },
     {
         type: "input",
