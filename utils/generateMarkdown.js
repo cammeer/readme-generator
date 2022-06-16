@@ -11,7 +11,7 @@
 // function renderLicenseSection(license) {}
 
 
-//checks to generate if empty
+//checks to generate if any fields are empty, which is ok
 
 const generateInstall = installText => {
     if (!installText) {
@@ -84,13 +84,11 @@ function generateMarkdown(data) {
   * This application is covered under the ${data.license} license
   ${generateContribute(data.contributing)}
   ${generateTesting(data.testing)}
-  ## Questions
-  Created by: [${data.githubUsername}](${data.githubLink})
+  ## Any Questions?
+  This project was created by me: [${data.githubUsername}](${data.githubLink})
   
-  Contact me at [${data.email}](${data.email})
+  Contact me with any questions at: [${data.email}](${data.email})
 `;
 }
-
-
 
 module.exports = generateMarkdown;
